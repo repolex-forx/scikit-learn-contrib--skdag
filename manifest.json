@@ -61,6 +61,9 @@
         "blob/1b82b5f69fe29f55707cbb88594a1ba61c73b94e.nq.gz",
         "blob/9d863dd97ac2adc716170be67588f0c105bb2d5b.nq.gz",
         "blob/c494aac3c0f6c10c0250ea93608a125bc8e3d605.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/a04f75f58b3126b98d304a5a03b49e3861108eff/chunk-001.nq.gz"
       ]
     }
   ],

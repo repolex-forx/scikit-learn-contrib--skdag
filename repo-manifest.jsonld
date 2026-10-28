@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/skdag/commit/a04f75f58b3126b98d304a5a03b49e3861108eff",
       "git:hexsha": "a04f75f58b3126b98d304a5a03b49e3861108eff",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.0.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.0.7",
+      "repolex:parsedAt": "2026-10-28T17:03:46.258674+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/skdag/commit/cf94b908d72408516dada2dba04de09ff418eeca",

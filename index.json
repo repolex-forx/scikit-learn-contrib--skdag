@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "skdag",
+  "versions": [
+    {
+      "commit": "a04f75f58b3126b98d304a5a03b49e3861108eff",
+      "tag": "v0.0.7",
+      "parsed_at": "2026-10-28T17:03:46.261389+00:00"
+    }
+  ]
+}
